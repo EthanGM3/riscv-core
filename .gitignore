@@ -1,0 +1,5 @@
+sim/waves/*.vcd
+sim/waves/*.fst
+*.log
+sim/verilator/obj_dir/
+.DS_Store
